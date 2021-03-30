@@ -15,5 +15,5 @@ I also contribute to the Minecraft community.
 
 I don't have else much to say, so here's a bunch of stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Encode42&include_all_commits=true&count_private=true&hide=issues&show_icons=true&disable_animations=true&hide_border=true&bg_color=333&icon_color=aaa&title_color=aaa&text_color=777)  
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Encode42&layout=compact&card_width=444&hide_border=true&bg_color=333&icon_color=aaa&title_color=aaa&text_color=777)
+![](https://github-readme-stats.vercel.app/api?username=Encode42&include_all_commits=true&count_private=true&hide=issues&show_icons=true&disable_animations=true&hide_border=true&bg_color=333&icon_color=aaa&title_color=aaa&text_color=777)  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Encode42&layout=compact&card_width=444&hide_border=true&bg_color=333&icon_color=aaa&title_color=aaa&text_color=777)
