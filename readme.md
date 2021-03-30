@@ -1,25 +1,17 @@
 ### Sometimes I write code for things
-![](https://hit.yhype.me/github/profile?user_id=34699884)![Profile views](https://komarev.com/ghpvc/?username=encode42&style=flat-square)
+[![](https://hit.yhype.me/github/profile?user_id=34699884)![](https://komarev.com/ghpvc/?username=encode42&style=flat-square)](https://github.com/Encode42) [![](https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square)](https://youtube.com/Encode42)  
+[![](https://img.shields.io/mozilla-observatory/grade/encode42.dev?label=Website&style=flat-square)](https://encode42.dev) [![](https://img.shields.io/discord/646517284453613578?color=7289DA&label=Support%20Discord&style=flat-square)](https://encode42.dev/support)
+
 
 I'm currently interested in web design and full stack development.
 
-<img width="50px" src="html.png"> <img width="50px" src="css.png"> <img width="50px" src="javascript.png"> <img width="50px" src="typescript.png"> <img width="50px" src="nodejs.png"> <img width="50px" src="php.png"> <img width="50px" src="nginx.png">  
-<img width="50px" src="java.png"> <img width="50px" src="csharp.png"> <img width="50px" src="dotnet.png"> <img width="50px" src="coffeescript.png">  
-<img width="50px" src="mysql.png"> <img width="50px" src="docker.png">  
+<img width="50px" src="html.png"> <img width="50px" src="css.png"> <img width="50px" src="javascript.png"> <img width="50px" src="typescript.png"> <img width="50px" src="php.png"> <img width="50px" src="nginx.png">  
+<img width="50px" src="java.png"> <img width="50px" src="csharp.png"> <img width="50px" src="dotnet.png"> <img width="50px" src="coffeescript.png"> <img width="50px" src="mysql.png"> <img width="50px" src="docker.png">  
 <img width="50px" src="windows.png"> <img width="50px" src="debian.png"> <img width="50px" src="adobe.png"> <img width="50px" src="gradle.png"> <img width="50px" src="apache.png"> <img width="50px" src="git.png">
 
 I also contribute to the Minecraft community.
 
 <a href="http://bukkit.org"><img width="50px" src="bukkit.png"></a> <a href="http://purpur.pl3x.net"><img width="50px" src="purpur.png"></a> <a href="http://craftlight.org"><img width="50px" src="craftlight.png"></a>
-
-<!--
-this is temporary
-[![Website](https://img.shields.io/badge/My-Website-777?style=flat-square)][my-website]  
-[![Support Discord](https://img.shields.io/discord/646517284453613578?color=7289DA&label=Support%20Discord&style=flat-square)][my-discord]  
-[![CraftLight Network Website](https://img.shields.io/badge/CraftLight-Website-044bbb?style=flat-square)][craftlight-website]  
-[![CraftLight Network Discord](https://img.shields.io/discord/525487377817534484?color=7289DA&label=Discord&style=flat-square)][craftlight-discord]  
-[![CraftLight GitHub](https://img.shields.io/github/followers/CraftLight-Network?color=171515&label=GitHub%20Followers&style=flat-square)][craftlight-github]
--->
 
 I don't have else much to say, so here's a bunch of stats:
 
