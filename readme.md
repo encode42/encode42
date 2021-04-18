@@ -1,19 +1,26 @@
-### Sometimes I write code for things
-[![](https://hit.yhype.me/github/profile?user_id=34699884)![](https://komarev.com/ghpvc/?username=encode42&style=flat-square)](https://github.com/Encode42) [![](https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square)](https://youtube.com/Encode42)  
-[![](https://img.shields.io/mozilla-observatory/grade/encode42.dev?label=Website&style=flat-square)](https://encode42.dev) [![](https://img.shields.io/discord/646517284453613578?color=7289DA&label=Support%20Discord&style=flat-square)](https://encode42.dev/support)
+### Sometimes I write code
+[![](https://hit.yhype.me/github/profile?user_id=34699884)![](https://komarev.com/ghpvc/?username=encode42&style=flat-square)](https://github.com/Encode42) [![](https://img.shields.io/badge/-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/encode42) [![](https://img.shields.io/badge/-PayPal-00457c?logo=paypal&style=flat-square)](https://paypal.me/Encode42)
 
+[![](https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square)](https://encode42.dev/support) [![](https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square)](https://youtube.com/Encode42) [![](https://img.shields.io/badge/-Steam-000000?logo=steam&style=flat-square)](https://steamcommunity.com/id/Encode42)
 
-I'm currently interested in web design and full stack development.
+I'm currently interested in full stack development.
 
-<img width="50px" src="html.png"> <img width="50px" src="css.png"> <img width="50px" src="javascript.png"> <img width="50px" src="typescript.png"> <img width="50px" src="php.png"> <img width="50px" src="nginx.png">  
-<img width="50px" src="java.png"> <img width="50px" src="csharp.png"> <img width="50px" src="dotnet.png"> <img width="50px" src="coffeescript.png"> <img width="50px" src="mysql.png"> <img width="50px" src="docker.png">  
-<img width="50px" src="windows.png"> <img width="50px" src="debian.png"> <img width="50px" src="adobe.png"> <img width="50px" src="gradle.png"> <img width="50px" src="apache.png"> <img width="50px" src="git.png">
+<img src="50/html.webp"> <img src="50/css.webp"> <img src="50/typescript.webp"> <img src="50/vue.webp"> <img src="50/sass.webp"> <img src="50/php.webp">  
+ <img src="50/java.webp"> <img src="50/dotnet.webp"> <img src="50/mariadb.webp"> <img src="50/yaml.webp"> <img src="50/markdown.webp"> <img src="50/bash.webp">   
+<img src="50/deno.webp"> <img src="50/nginx.webp"> <img src="50/cloudflare.webp"> <img src="50/letsencrypt.webp"> <img src="50/git.webp"> <img src="50/docker.webp">
 
+<!--
+WIP
 I also contribute to the Minecraft community.
 
-<a href="http://bukkit.org"><img width="50px" src="bukkit.png"></a> <a href="http://purpur.pl3x.net"><img width="50px" src="purpur.png"></a> <a href="http://craftlight.org"><img width="50px" src="craftlight.png"></a>
+<img src="50/craftlight.webp"> <img src="50/bukkit.webp"> <img src="50/purpur.webp"> <img src="50/adventure.webp"> <img src="50/cloud.webp"> <img src="50/bstats.webp">
+-->
+Here are the tools I use daily:
+
+<img src="50/jetbrains.webp"> <img src="50/vscodium.webp"> <img src="50/windowsterminal.webp"> <img src="50/windows.webp"> <img src="50/adobe.webp"> <img src="50/debian.webp">  
+<img src="50/discord.webp"> <img src="50/spotify.webp"> <img src="50/windscribe.webp"> <img src="50/bitwarden.webp"> <img src="50/duckduckgo.webp"> <img src="50/firefox.webp">
 
 I don't have else much to say, so here's a bunch of stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Encode42&include_all_commits=true&count_private=true&hide=issues&show_icons=true&disable_animations=true&hide_border=true&bg_color=333&icon_color=aaa&title_color=aaa&text_color=777)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Encode42&layout=compact&card_width=444&hide_border=true&bg_color=333&icon_color=aaa&title_color=aaa&text_color=777)
+![](https://metrics.lecoq.io/Encode42?template=terminal&repositories.forks=true&base.community=0&base.metadata=0&lines=1&followup=1&traffic=1&config.timezone=America%2FNew_York)  
+![](https://metrics.lecoq.io/Encode42?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&notable=1&languages.limit=5&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=3&config.timezone=America%2FNew_York)
