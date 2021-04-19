@@ -1,3 +1,13 @@
+<!--
+TODO:
+- Convert back to SVG for mobile
+  - Must be #777
+  - Default size 50x50
+- Minecraft icons
+- Hyperlinks on icons
+- Use workflows for stats
+-->
+
 ### Sometimes I write code
 [![](https://hit.yhype.me/github/profile?user_id=34699884)![](https://komarev.com/ghpvc/?username=encode42&style=flat-square)](https://github.com/Encode42) [![](https://img.shields.io/badge/-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/encode42) [![](https://img.shields.io/badge/-PayPal-00457c?logo=paypal&style=flat-square)](https://paypal.me/Encode42)
 
