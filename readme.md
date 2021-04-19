@@ -22,4 +22,4 @@ Here are the tools I use daily:
 
 I don't have else much to say, so here's a bunch of stats:
 
-![](https://metrics.lecoq.io/Encode42?template=terminal&repositories.forks=true&base.community=0&base.metadata=0&languages=1&followup=1&lines=1&languages.limit=5&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)
+[![](https://metrics.lecoq.io/Encode42?template=terminal&repositories.forks=true&base.community=0&base.metadata=0&languages=1&followup=1&lines=1&languages.limit=5&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)](https://metrics.lecoq.io/about/Encode42)
