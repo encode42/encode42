@@ -20,7 +20,7 @@ Here are the tools I use daily:
 <img src="50/jetbrains.webp"> <img src="50/vscodium.webp"> <img src="50/windowsterminal.webp"> <img src="50/windows.webp"> <img src="50/adobe.webp"> <img src="50/debian.webp">  
 <img src="50/discord.webp"> <img src="50/spotify.webp"> <img src="50/windscribe.webp"> <img src="50/bitwarden.webp"> <img src="50/duckduckgo.webp"> <img src="50/firefox.webp">
 
-I don't have else much to say, so here's a bunch of stats: 
+I don't have else much to say, so here's a bunch of stats:
 
 ![](https://metrics.lecoq.io/Encode42?template=terminal&repositories.forks=true&base.community=0&base.metadata=0&lines=1&followup=1&traffic=1&config.timezone=America%2FNew_York)  
 ![](https://metrics.lecoq.io/Encode42?template=classic&repositories.forks=true&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&languages=1&achievements=1&notable=1&languages.limit=5&languages.colors=github&languages.threshold=0%25&achievements.threshold=C&achievements.secrets=true&achievements.limit=3&config.timezone=America%2FNew_York)
