@@ -1,4 +1,3 @@
-Sometimes I write code for things.
+This is my community template for [Metrics](https://github.com/lowlighter/metrics).
 
-I don't have much to say, so here's my stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Encode42&include_all_commits=true&count_private=true&hide=issues&hide_title=true&theme=dark&show_icons=true&disable_animations=true]
+It's based off the [terminal template](https://github.com/lowlighter/metrics/tree/master/source/templates/terminal) and styled like the Windows Terminal app.
