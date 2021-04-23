@@ -1,0 +1,22 @@
+name: Generate Metrics
+on:
+  push:
+  schedule:
+  - cron: "0 0 * * 0"
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics-terminal.svg
+          verify: yes
+          committer_message: Update metrics (${filename})
+          template: terminal
+          base: header, activity, repositories
+          config_timezone: America/New_York
+          repositories_forks: yes
+          plugin_followup: yes
+          plugin_lines: yes
+          plugin_traffic: yes

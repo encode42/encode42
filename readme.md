@@ -5,7 +5,6 @@ TODO:
   - Default size 50x50
 - Minecraft icons
 - Hyperlinks on icons
-- Use workflows for stats
 -->
 
 ### Sometimes I write code
@@ -16,7 +15,7 @@ TODO:
 I'm currently interested in full stack development.
 
 <img src="50/html.webp"> <img src="50/css.webp"> <img src="50/typescript.webp"> <img src="50/vue.webp"> <img src="50/sass.webp"> <img src="50/php.webp">  
- <img src="50/java.webp"> <img src="50/dotnet.webp"> <img src="50/mariadb.webp"> <img src="50/yaml.webp"> <img src="50/markdown.webp"> <img src="50/bash.webp">   
+<img src="50/java.webp"> <img src="50/dotnet.webp"> <img src="50/mariadb.webp"> <img src="50/yaml.webp"> <img src="50/markdown.webp"> <img src="50/bash.webp">  
 <img src="50/deno.webp"> <img src="50/nginx.webp"> <img src="50/cloudflare.webp"> <img src="50/letsencrypt.webp"> <img src="50/git.webp"> <img src="50/docker.webp">
 
 <!--
@@ -32,4 +31,4 @@ Here are the tools I use daily:
 
 I don't have else much to say, so here's a bunch of stats:
 
-[![](https://metrics.lecoq.io/Encode42?template=terminal&repositories.forks=true&base.community=0&base.metadata=0&languages=1&followup=1&lines=1&languages.limit=5&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FNew_York)](https://metrics.lecoq.io/about/Encode42)
+[![](metrics-terminal.svg)](https://metrics.lecoq.io/about/Encode42)
