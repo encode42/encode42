@@ -31,4 +31,5 @@ Here are the tools I use daily:
 
 I don't have else much to say, so here's a bunch of stats:
 
-[![](metrics-terminal.svg)](https://metrics.lecoq.io/about/Encode42)
+[![](terminal-metrics.svg)](https://metrics.lecoq.io/about/Encode42)  
+[![](standard-metrics.svg)](https://metrics.lecoq.io/about/Encode42)
