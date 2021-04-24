@@ -1,149 +1,145 @@
-/* SVG global context */
-  svg {
-    font-family: 'Courier Prime';
-    font-size: 15px;
-    color: #777777;
-  }
+svg {
+	font-family: "Cascadia Mono";
+	font-size: 15px;
+	color: #ccc;
+}
 
-/* Title bar */
-  .header {
-    display: flex;
-    justify-content: space-between;
-    width: 100%;
-    height: 37px;
-    align-items: center;
-    padding: 0 8px;
-    box-sizing: border-box;
+.header {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 37px;
+	align-items: center;
+	padding: 0 8px;
+	box-sizing: border-box;
 	border-radius: none;
-    background: #333;
-  }
+	background: #333;
+}
 
-  .title {
-    color: #d5d0ce;
-    font-size: 16px;
-  }
+.title {
+	color: #d5d0ce;
+	font-size: 16px;
+}
 
-  .buttons {
-    display: flex;
-    align-items: center;
-  }
+.buttons {
+	display: flex;
+	align-items: center;
+}
 
-  .button {
-    color: #fff;
-    display: flex;
-    justify-content: center;
-    margin-left: 16px;
-    margin-right: 8px;
-    font-size: 16px;
-    height: 22px;
-    width: 22px;
-    vertical-align: middle;
-    align-items: center;
-    border-radius: 100%;
-    background: transparent;
-    text-shadow: 0px 1px 0px rgba(255,255,255,0.2);
-  }
+.button {
+	color: #fff;
+	display: flex;
+	justify-content: center;
+	margin-left: 16px;
+	margin-right: 8px;
+	font-size: 16px;
+	height: 22px;
+	width: 22px;
+	vertical-align: middle;
+	align-items: center;
+	border-radius: 100%;
+	background: transparent;
+	text-shadow: 0px 1px 0px rgba(255, 255, 255, 0.2);
+}
 
-  .button.exit {
-    background: transparent;
-  }
+.button:nth-child(1) {
+	margin-top: 3px !important;
+}
 
-  .button:nth-child(1) {
-    margin-top: 3px !important;
-  }
+.button:nth-child(2) {
+	font-size: 24px !important;
+}
 
-  .button:nth-child(2) {
-    font-size: 24px !important;
-  }
+pre, .banner, footer {
+	margin: 0;
+	color: #ccc;
+}
 
-/* Terminal */
-  pre, .banner, footer {
-    margin: 0;
-    font-family: 'Cascadia Mono';
-    color: #CCCCCC;
-  }
-  pre {
-    background: #0C0C0C;
-    padding: 12px;
-    border-radius: none;
-  }
-  .banner, footer {
-    color: #AE9DA7;
-  }
+pre {
+	background: #0c0c0c;
+	padding: 12px;
+	border-radius: none;
+}
 
-/* Prompt */
-  .ps1-path {
-    color: #16C60C;
-  }
+.banner, footer {
+	color: #AE9DA7;
+}
 
-  .ps1-location {
-    color: #356AE0;
-  }
+.ps1-path {
+	color: #16c60c;
+}
 
-/* Diff */
-  .diff {
-    color: #3A96DD;
-  }
+.ps1-location {
+	color: #3b78ff;
+}
 
-/* Error */
-  .error {
-    color: #cb2431;
-  }
+.diff {
+	color: #3a96dd;
+}
 
-/* Animations */
-  .stdin, footer {
-    width: 0%;
-    white-space: nowrap;
-    overflow: hidden;
-    animation-name: stdin-animation;
-    animation-fill-mode: both;
-  }
+.error {
+	color: #c50f1f;
+}
 
-  .stdout {
-    max-height: 0%;
-    overflow: hidden;
-    animation-name: stdout-animation;
-    animation-fill-mode: both;
-  }
+.stdin, footer {
+	width: 0%;
+	white-space: nowrap;
+	overflow: hidden;
+	animation-name: stdin-animation;
+	animation-fill-mode: both;
+}
 
-  @keyframes stdin-animation {
-    0% { width: 0%; }
-    100% { width: 100%; }
-  }
+.stdout {
+	max-height: 0%;
+	overflow: hidden;
+	animation-name: stdout-animation;
+	animation-fill-mode: both;
+}
 
-  @keyframes stdout-animation {
-    0% { max-height: 0; }
-    100% { max-height: 360px; }
-  }
+@keyframes stdin-animation {
+	0% {
+		width: 0%;
+	}
+	100% {
+		width: 100%;
+	}
+}
 
-/* Calendar */
-  :root {
-    --color-calendar-graph-day-bg: #ebedf0;
-    --color-calendar-graph-day-border: rgba(27,31,35,0.06);
-    --color-calendar-graph-day-L1-bg: #9be9a8;
-    --color-calendar-graph-day-L2-bg: #40c463;
-    --color-calendar-graph-day-L3-bg: #30a14e;
-    --color-calendar-graph-day-L4-bg: #216e39;
-    --color-calendar-halloween-graph-day-L1-bg: #ffee4a;
-    --color-calendar-halloween-graph-day-L2-bg: #ffc501;
-    --color-calendar-halloween-graph-day-L3-bg: #fe9600;
-    --color-calendar-halloween-graph-day-L4-bg: #03001c;
-    --color-calendar-graph-day-L4-border: rgba(27,31,35,0.06);
-    --color-calendar-graph-day-L3-border: rgba(27,31,35,0.06);
-    --color-calendar-graph-day-L2-border: rgba(27,31,35,0.06);
-    --color-calendar-graph-day-L1-border: rgba(27,31,35,0.06);
-  }
+@keyframes stdout-animation {
+	0% {
+		max-height: 0;
+	}
+	100% {
+		max-height: 360px;
+	}
+}
 
-/* End delimiter */
-  #metrics-end {
-    width: 100%;
-  }
+:root {
+	--color-calendar-graph-day-bg: #ebedf0;
+	--color-calendar-graph-day-border: rgba(27, 31, 35, 0.06);
+	--color-calendar-graph-day-L1-bg: #9be9a8;
+	--color-calendar-graph-day-L2-bg: #40c463;
+	--color-calendar-graph-day-L3-bg: #30a14e;
+	--color-calendar-graph-day-L4-bg: #216e39;
+	--color-calendar-halloween-graph-day-L1-bg: #ffee4a;
+	--color-calendar-halloween-graph-day-L2-bg: #ffc501;
+	--color-calendar-halloween-graph-day-L3-bg: #fe9600;
+	--color-calendar-halloween-graph-day-L4-bg: #03001c;
+	--color-calendar-graph-day-L4-border: rgba(27, 31, 35, 0.06);
+	--color-calendar-graph-day-L3-border: rgba(27, 31, 35, 0.06);
+	--color-calendar-graph-day-L2-border: rgba(27, 31, 35, 0.06);
+	--color-calendar-graph-day-L1-border: rgba(27, 31, 35, 0.06);
+}
 
-  .no-animations * {
-    transition-delay: 0s !important;
-    transition-duration: 0s !important;
-    animation-delay: -0.0001s !important;
-    animation-duration: 0s !important;
-    animation-play-state: paused !important;
-    caret-color: transparent !important;
-  }
+#metrics-end {
+	width: 100%;
+}
+
+.no-animations * {
+	transition-delay: 0s !important;
+	transition-duration: 0s !important;
+	animation-delay: -0.0001s !important;
+	animation-duration: 0s !important;
+	animation-play-state: paused !important;
+	caret-color: transparent !important;
+}
