@@ -43,7 +43,7 @@ svg {
 }
 
 .button:nth-child(1) {
-	margin-top: 3px !important;
+	margin-top: 4px !important;
 }
 
 .button:nth-child(2) {
@@ -56,9 +56,10 @@ pre, .banner, footer {
 }
 
 pre {
+	font-family: "Cascadia Mono";
 	background: #0c0c0c;
-	padding: 12px;
-	border-radius: none;
+	padding: 10px;
+	border: 1px solid #333;
 }
 
 .banner, footer {
