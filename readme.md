@@ -31,5 +31,7 @@ I also contribute to the Minecraft community.
 
 **I don't have else much to say, so here's a bunch of stats:**
 
-[![](terminal-metrics.svg)](https://metrics.lecoq.io/about/Encode42)  
-[![](standard-metrics.svg)](https://metrics.lecoq.io/about/Encode42)
+[
+	![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/terminal-metrics.svg)  
+	![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg)
+](https://metrics.lecoq.io/about/Encode42)
