@@ -1,37 +1,64 @@
+![](https://hit.yhype.me/github/profile?user_id=34699884)
+
 <!--
 TODO:
-- Convert back to SVG for mobile
-  - Must be #777
-  - Default size 50x50
-- Hyperlinks on icons
+- Icon hyperlinks
 - Minecraft icons
 -->
 
-## Sometimes I write code
-[![](https://hit.yhype.me/github/profile?user_id=34699884)![](https://komarev.com/ghpvc/?username=encode42&style=flat-square)](https://github.com/Encode42) [![](https://img.shields.io/badge/-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white&style=flat-square)](https://ko-fi.com/encode42) [![](https://img.shields.io/badge/-PayPal-00457c?logo=paypal&style=flat-square)](https://paypal.me/Encode42)
+<!-- Donations -->
+[Ko-fi]: https://ko-fi.com/encode42 "Donate via Ko-fi"
+[PayPal]: https://paypal.me/encode42 "Donate via PayPal"
+[Ko-fi Badge]: https://img.shields.io/badge/-Ko--fi-ff5e5b?logo=ko-fi&logoColor=white&style=flat-square
+[PayPal Badge]: https://img.shields.io/badge/-PayPal-00457c?logo=paypal&style=flat-square
 
-[![](https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square)](https://encode42.dev/support) [![](https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square)](https://youtube.com/Encode42) [![](https://img.shields.io/badge/-Steam-000000?logo=steam&style=flat-square)](https://steamcommunity.com/id/Encode42)
+<!-- Socials -->
+[Support]: https://encode42.dev/support
+[YouTube]: https://encode42.dev/youtube
+[Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square
+[YouTube Badge]: https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square
+
+<!-- Icons -->
+[PHP]: php.svg "PHP"
+[HTML5]: html5.svg "HTML 5"
+[CSS3]: css3.svg "CSS 3"
+[Typescript]: typescript.svg "Typescript"
+[Java]: java.svg "Java"
+[C#]: csharp.svg "C#"
+[Deno]: deno.svg "Deno"
+[nginx]: nginx.svg "nginx"
+[Gradle]: gradle.svg "Gradle"
+[MariaDB]: mariadb.svg "MariaDB"
+[Docker]: docker.svg "Docker"
+[Git]: git.svg "Git"
+
+[IntelliJ]: intellij.svg "IntelliJ"
+[Codium]: codium.svg "VSCodium"
+[Discord]: discord.svg "Discord"
+[Debian]: debian.svg "Debian"
+[Cloudflare]: cloudflare.svg "Cloudflare"
+[Bitwarden]: bitwarden.svg "Bitwarden"
+[DuckDuckGo]: duckduckgo.svg "DuckDuckGo"
+[Firefox]: firefox.svg "Firefox"
+
+## Sometimes I write code
+[![][Ko-fi Badge]][Ko-fi] [![][PayPal Badge]][PayPal]  
+[![][Discord Badge]][Support] [![][YouTube Badge]][YouTube]
 
 **I'm currently interested in full stack development.**
 
-<img src="50/html.webp"> <img src="50/css.webp"> <img src="50/typescript.webp"> <img src="50/vue.webp"> <img src="50/sass.webp"> <img src="50/php.webp">  
-<img src="50/java.webp"> <img src="50/dotnet.webp"> <img src="50/mariadb.webp"> <img src="50/yaml.webp"> <img src="50/markdown.webp"> <img src="50/bash.webp">  
-<img src="50/deno.webp"> <img src="50/nginx.webp"> <img src="50/cloudflare.webp"> <img src="50/letsencrypt.webp"> <img src="50/git.webp"> <img src="50/docker.webp">
-<!--
-WIP
-I also contribute to the Minecraft community.
-
-<img src="50/craftlight.webp"> <img src="50/bukkit.webp"> <img src="50/purpur.webp"> <img src="50/adventure.webp"> <img src="50/cloud.webp"> <img src="50/bstats.webp">
--->
+![PHP] ![HTML5] ![CSS3] ![Typescript]  
+![Java] ![C#] ![Deno] ![nginx]  
+![Gradle] ![MariaDB] ![Docker] ![Git]
 
 **Here are the tools I use daily:**
 
-<img src="50/jetbrains.webp"> <img src="50/vscodium.webp"> <img src="50/windowsterminal.webp"> <img src="50/windows.webp"> <img src="50/adobe.webp"> <img src="50/debian.webp">  
-<img src="50/discord.webp"> <img src="50/spotify.webp"> <img src="50/windscribe.webp"> <img src="50/bitwarden.webp"> <img src="50/duckduckgo.webp"> <img src="50/firefox.webp">
+![IntelliJ] ![Codium] ![Discord] ![Debian]  
+![Cloudflare] ![BitWarden] ![DuckDuckGo] ![Firefox]
 
 **I don't have else much to say, so here's a bunch of stats:**
 
 [
-	![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/terminal-metrics.svg)  
-	![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg)
+![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/terminal-metrics.svg)  
+![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg)
 ](https://metrics.lecoq.io/about/Encode42)
