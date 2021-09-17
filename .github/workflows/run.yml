@@ -24,7 +24,7 @@ jobs:
           plugin_followup: yes
           plugin_followup_sections: repositories
           plugin_lines: yes
-          plugin_traffic: yes
+          #plugin_traffic: yes
 
       - name: Generate standard metrics
         uses: lowlighter/metrics@latest
@@ -48,6 +48,7 @@ jobs:
           plugin_habits_trim: yes
           plugin_languages: yes
           plugin_languages_colors: github
+          plugin_languages_indepth: yes
           plugin_languages_limit: 5
           plugin_languages_recent_categories: markup, programming
           plugin_languages_recent_days: 31
