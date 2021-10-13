@@ -42,7 +42,7 @@ jobs:
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
-          plugin_wakatime_sections: time, projects, projects-graphs, editors
+          plugin_wakatime_sections: time, projects-graphs, editors
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: Encode42
           repositories_affiliations: owner, collaborator
