@@ -14,17 +14,13 @@
 
 **I don't have else much to say, so here's a bunch of stats:**
 
-[
-![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg)
-](https://metrics.lecoq.io/about/Encode42)
-
-![](https://hit.yhype.me/github/profile?user_id=34699884)
-
 <!--
 TODO:
 - Icon hyperlinks
 - Minecraft icons
 -->
+
+<!-- Links - Placed here for spacing -->
 
 <!-- Donations -->
 [Ko-fi]: https://ko-fi.com/encode42 "Donate via Ko-fi"
@@ -58,3 +54,9 @@ TODO:
 [Bitwarden]: bitwarden.svg "Bitwarden"
 [DuckDuckGo]: duckduckgo.svg "DuckDuckGo"
 [Firefox]: firefox.svg "Firefox"
+
+[
+![](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg)
+](https://metrics.lecoq.io/about/Encode42)
+
+![](https://hit.yhype.me/github/profile?user_id=34699884)
