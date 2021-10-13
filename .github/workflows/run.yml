@@ -38,7 +38,7 @@ jobs:
           plugin_languages_threshold: 0%
           plugin_languages_ignored: kotlin
           plugin_lines: yes
-          plugin_wakatime: yes
+          plugin_wakatime: no
           plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
           plugin_wakatime_days: 30
           plugin_wakatime_limit: 5
