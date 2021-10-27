@@ -5,18 +5,12 @@
 Web design, backend development, to software engineering, I enjoy it all!
 
 <!-- START Links -->
-[NBS]: https://opennbs.org/
-
-[Metrics]: https://metrics.lecoq.io/about/Encode42
-[Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg
-[Hits]: https://hit.yhype.me/github/profile?user_id=34699884
-
 [Ko-fi]: https://ko-fi.com/encode42 "Donate via Ko-fi"
-[Ko-fi Badge]: https://img.shields.io/static/v1?label=​&message=Donate&logo=ko-fi&logoColor=white&labelColor=ff5e5b&color=ff5e5b&style=flat-square "Ko-fi Badge"
-[Support]: https://encode42.dev/support
-[YouTube]: https://encode42.dev/youtube
-[Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord Badge"
-[YouTube Badge]: https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square "YouTube Badge"
+[Ko-fi Badge]: https://img.shields.io/static/v1?label=​&message=Donate&logo=ko-fi&logoColor=white&labelColor=ff5e5b&color=ff5e5b&style=flat-square "Ko-fi badge"
+[Support]: https://encode42.dev/support "Support Discord"
+[YouTube]: https://encode42.dev/youtube "YouTube channel"
+[Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord badge"
+[YouTube Badge]: https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square "YouTube badge"
 
 [PHP]: php.svg "PHP"
 [PHP Link]: https://www.php.net/
@@ -57,6 +51,11 @@ Web design, backend development, to software engineering, I enjoy it all!
 [Firefox Link]: https://www.mozilla.org/firefox/
 [DuckDuckGo]: duckduckgo.svg "DuckDuckGo"
 [DuckDuckGo Link]: https://duckduckgo.com
+
+[Metrics]: https://metrics.lecoq.io/about/Encode42 "Metrics"
+[Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
+
+[NBS]: https://opennbs.org/
 <!-- END Links -->
 
 <details>
@@ -87,7 +86,7 @@ Web design, backend development, to software engineering, I enjoy it all!
 <summary>📈 <b>Profile statistics</b></summary>
 
 [![Metrics Badge]][Metrics]
-![Hits]
+![](https://hit.yhype.me/github/profile?user_id=34699884)
 </details>
 
 <details>
