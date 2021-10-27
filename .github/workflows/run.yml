@@ -50,5 +50,5 @@ jobs:
           repositories_affiliations: owner, collaborator
           repositories_forks: yes
 
-      - name: Keepalive
-        uses: gautamkrishnar/keepalive-workflow@master
+      #- name: Keepalive
+      #  uses: gautamkrishnar/keepalive-workflow@master
