@@ -4,59 +4,60 @@
 ### I'm currently interested in full stack development.
 Web design, backend development, to software engineering, I enjoy it all!
 
-<!-- Links -->
+<!-- START Links -->
 [NBS]: https://opennbs.org/
 
-<!-- Donations -->
+[Metrics]: https://metrics.lecoq.io/about/Encode42
+[Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg
+[Hits]: https://hit.yhype.me/github/profile?user_id=34699884
+
 [Ko-fi]: https://ko-fi.com/encode42 "Donate via Ko-fi"
 [Ko-fi Badge]: https://img.shields.io/static/v1?label=​&message=Donate&logo=ko-fi&logoColor=white&labelColor=ff5e5b&color=ff5e5b&style=flat-square "Ko-fi Badge"
-
-<!-- Socials -->
 [Support]: https://encode42.dev/support
 [YouTube]: https://encode42.dev/youtube
 [Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord Badge"
 [YouTube Badge]: https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square "YouTube Badge"
 
-<!-- Icons -->
 [PHP]: php.svg "PHP"
-[PHPLink]: https://www.php.net/
+[PHP Link]: https://www.php.net/
 [HTML5]: html5.svg "HTML 5"
 [CSS3]: css3.svg "CSS 3"
-[W3Link]: https://www.w3.org/
+[W3 Link]: https://www.w3.org/
 [Typescript]: typescript.svg "Typescript"
-[TypescriptLink]: https://www.typescriptlang.org/
+[Typescript Link]: https://www.typescriptlang.org/
 [Java]: java.svg "Java"
-[JavaLink]: https://www.java.com/
+[Java Link]: https://www.java.com/
 [C#]: csharp.svg "C#"
 [C#Link]: https://dotnet.microsoft.com/
 [Deno]: deno.svg "Deno"
-[DenoLink]: https://deno.land/
+[Deno Link]: https://deno.land/
 [nginx]: nginx.svg "nginx"
-[nginxLink]: https://nginx.org/
+[nginx Link]: https://nginx.org/
 [Gradle]: gradle.svg "Gradle"
-[GradleLink]: https://gradle.org/
+[Gradle Link]: https://gradle.org/
 [MariaDB]: mariadb.svg "MariaDB"
-[MariaDBLink]: https://mariadb.org/
+[MariaDB Link]: https://mariadb.org/
 [Docker]: docker.svg "Docker"
-[DockerLink]: https://www.docker.com/
+[Docker Link]: https://www.docker.com/
 [Git]: git.svg "Git"
-[GitLink]: https://git-scm.com/
+[Git Link]: https://git-scm.com/
 [IntelliJ]: intellij.svg "IntelliJ"
-[IntelliJLink]: https://www.jetbrains.com/idea/
+[IntelliJ Link]: https://www.jetbrains.com/idea/
 [WebStorm]: webstorm.svg "WebStorm"
-[WebStormLink]: https://www.jetbrains.com/webstorm/
+[WebStorm Link]: https://www.jetbrains.com/webstorm/
 [Debian]: debian.svg "Debian"
-[DebianLink]: https://www.debian.org/
+[Debian Link]: https://www.debian.org/
 [Cloudflare]: cloudflare.svg "Cloudflare"
-[CloudflareLink]: https://www.cloudflare.com/
+[Cloudflare Link]: https://www.cloudflare.com/
 [Jellyfin]: jellyfin.svg "Jellyfin"
-[JellyfinLink]: https://jellyfin.org/
+[Jellyfin Link]: https://jellyfin.org/
 [Discord]: discord.svg "Discord"
-[DiscordLink]: https://discord.com/
+[Discord Link]: https://discord.com/
 [Firefox]: firefox.svg "Firefox"
-[FirefoxLink]: https://www.mozilla.org/firefox/
+[Firefox Link]: https://www.mozilla.org/firefox/
 [DuckDuckGo]: duckduckgo.svg "DuckDuckGo"
-[DuckDuckGoLink]: https://duckduckgo.com
+[DuckDuckGo Link]: https://duckduckgo.com
+<!-- END Links -->
 
 <details>
 <summary>👤 <b>Hobbies</b></summary>
@@ -75,20 +76,18 @@ Web design, backend development, to software engineering, I enjoy it all!
 <summary>🔌 <b>Technologies utilized</b></summary>
 
 <!-- Badges -->
-[![PHP]][PHPLink] [![HTML5]][W3Link] [![CSS3]][W3Link] [![Typescript]][TypescriptLink]  
-[![Java]][JavaLink] [![C#]][C#Link] [![nginx]][nginxLink] [![Deno]][DenoLink]  
-[![Gradle]][GradleLink] [![MariaDB]][MariaDBLink] [![Docker]][DockerLink] [![Git]][GitLink]  
-[![IntelliJ]][IntelliJLink] [![WebStorm]][WebStormLink] [![Debian]][DebianLink] [![Cloudflare]][CloudflareLink]  
-[![Jellyfin]][JellyfinLink] [![Discord]][DiscordLink] [![Firefox]][FirefoxLink] [![DuckDuckGo]][DuckDuckGoLink]
+[![PHP]][PHP Link] [![HTML5]][W3 Link] [![CSS3]][W3 Link] [![Typescript]][Typescript Link]  
+[![Java]][Java Link] [![C#]][C#Link] [![nginx]][nginx Link] [![Deno]][Deno Link]  
+[![Gradle]][Gradle Link] [![MariaDB]][MariaDB Link] [![Docker]][Docker Link] [![Git]][Git Link]  
+[![IntelliJ]][IntelliJ Link] [![WebStorm]][WebStorm Link] [![Debian]][Debian Link] [![Cloudflare]][Cloudflare Link]  
+[![Jellyfin]][Jellyfin Link] [![Discord]][Discord Link] [![Firefox]][Firefox Link] [![DuckDuckGo]][DuckDuckGo Link]
 </details>
 
 <details>
 <summary>📈 <b>Profile statistics</b></summary>
 
-[![Metrics](https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg)](https://metrics.lecoq.io/about/Encode42)
-
-<!-- Hits -->
-![](https://hit.yhype.me/github/profile?user_id=34699884)
+[![Metrics Badge]][Metrics]
+![Hits]
 </details>
 
 <details>
