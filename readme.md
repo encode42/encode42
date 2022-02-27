@@ -1,5 +1,5 @@
 ## ⌨️ I write code, *sometimes*
-[![Ko-fi Badge]][Ko-fi] [![Discord Badge]][Support] [![YouTube Badge]][YouTube]
+[![Ko-fi Badge]][Ko-fi] [![Discord Badge]][Support]
 
 ### I'm currently interested in full stack development.
 Web design, backend development, to software engineering, I enjoy it all!
