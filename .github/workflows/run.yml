@@ -1,9 +1,7 @@
 name: Generate Metrics
 on:
-  push:
-  workflow_dispatch:
   schedule:
-  - cron: "0 0 * * */2"
+  - cron: "0 0 * * 0"
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -21,7 +19,6 @@ jobs:
           base: activity, repositories
           #config_order: base.repositories, habits, languages
           config_timezone: America/New_York
-          config_padding: 0, 2%
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 31
