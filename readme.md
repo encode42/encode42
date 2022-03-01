@@ -1,4 +1,4 @@
-## ⌨️ I write code, *sometimes*
+## ⌨️ I develop stuff
 [![Ko-fi Badge]][Ko-fi] [![Discord Badge]][Support]
 
 ### I'm currently interested in full stack development.
