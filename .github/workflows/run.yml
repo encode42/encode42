@@ -19,6 +19,7 @@ jobs:
           base: activity, repositories
           #config_order: base.repositories, habits, languages
           config_timezone: America/New_York
+          config_padding: 0, 16 + 11%
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 31
