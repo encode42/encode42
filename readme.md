@@ -82,7 +82,7 @@ Web design, backend development, to software engineering, I enjoy it all!
 <details>
 <summary><b>💰 Commissions</b></summary>
 
-My commissions are currently **open**.
+My commissions are currently **full**. (check back later!)
 
 I am skilled mainly in web design and development (frontend and backend), Minecraft modding and plugin development, and minimalistic graphic design.
 
