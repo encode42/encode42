@@ -67,7 +67,7 @@ Web design, backend development, to software engineering, I enjoy it all!
 
 <!-- Badges -->
 [![PHP]][PHP Link] [![HTML5]][HTML5 Link] [![Typescript]][Typescript Link] [![Next.js]][Next.js Link]  
-[![Java]][Java Link] [![Mantine]][Mantine Link] [![nginx]][nginx Link] [![Deno]][Deno Link]   
+[![Java]][Java Link] [![nginx]][nginx Link] [![Mantine]][Mantine Link] [![Deno]][Deno Link]   
 [![Gradle]][Gradle Link] [![MariaDB]][MariaDB Link] [![Docker]][Docker Link] [![Node.js]][Node.js Link]   
 [![IntelliJ]][IntelliJ Link] [![FL]][FL Link] [![Git]][Git Link] [![Cloudflare]][Cloudflare Link]
 </details>
