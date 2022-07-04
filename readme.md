@@ -1,8 +1,9 @@
-## ⌨️ I develop stuff
-[![Ko-fi Badge]][Ko-fi] [![Discord Badge]][Support]
-
 ### I'm currently interested in full stack development.
-Web design, backend development, to software engineering, I enjoy it all!
+From web design, backend development, to software engineering, I enjoy it all!
+
+Recently, I've been focusing on expanding my knowledge regarding web technologies, such as React.
+
+[![Ko-fi Badge]][Ko-fi] [![Discord Badge]][Support]
 
 <!-- START Links -->
 [Ko-fi]: https://ko-fi.com/encode42 "Donate via Ko-fi"
@@ -58,8 +59,13 @@ Web design, backend development, to software engineering, I enjoy it all!
 - 🔊 Music production
   - [Original compositions][Soundcloud]
   - [NBS] remixes
-- 🖌️ Graphik Desing
+- 🔊 Music listening
+  - Collection of 15,000+ `.flac` files
+  - Interested in [Progressive rock](https://en.wikipedia.org/wiki/Progressive_rock)
 - 🔒 Archival
+  - Software, games, obsolete tech, and more
+  - Involved with [MCServer Archive](https://github.com/MCServer-Archive)
+- 🖌️ Design
 </details>
 
 <details>
@@ -77,14 +83,4 @@ Web design, backend development, to software engineering, I enjoy it all!
 
 [![Metrics Badge]][Metrics]
 ![](https://hit.yhype.me/github/profile?user_id=34699884)
-</details>
-
-<details>
-<summary><b>💰 Commissions</b></summary>
-
-My commissions are currently **full**. (check back later!)
-
-I am skilled mainly in web design and development (frontend and backend), Minecraft modding and plugin development, and minimalistic graphic design.
-
-Contact me through my [support server][Support] and we can take things from there!
 </details>
