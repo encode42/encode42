@@ -59,7 +59,7 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 
 - `🎵 music production`
   - [Original compositions][Soundcloud]
-  - [NBS][OpenNBS] remixes
+  - [NBS][OpenNBS Link] remixes
 - `🔊 music listening`
   - Collection of 30,000+ `.flac` files
   - Interested in [Progressive rock](https://en.wikipedia.org/wiki/Progressive_rock), [Chiptune](https://en.wikipedia.org/wiki/Chiptune), [D&B](https://en.wikipedia.org/wiki/Drum_and_bass), and much more.
