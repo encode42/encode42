@@ -76,7 +76,11 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 [![HTML5]][HTML5 Link] [![Typescript]][Typescript Link] [![Remix]][Remix Link] [![Mantine]][Mantine Link]  
 [![nginx]][nginx Link] [![Node.js]][Node.js Link] [![Deno]][Deno Link] [![PHP]][PHP Link]  
 [![IntelliJ]][IntelliJ Link] [![Java]][Java Link] [![Gradle]][Gradle Link] [![Cloudflare]][Cloudflare Link]  
-[![Ableton]][Ableton Link] [![FL]][FL Link] [![Firefox]][Firefox Link] [![Arch Linux]][Arch Linux Link]
+[![Ableton]][Ableton Link] [![FL]][FL Link] [![Firefox]][Firefox Link] [![Arch Linux]][Arch Linux Link]  
+<sub>
+
+Icons from [Simple Icons](https://simpleicons.org).
+</sub>
 </details>
 
 <details>
