@@ -6,50 +6,52 @@ Recently, I've been focusing on expanding my knowledge regarding web technologie
 I'm experienced with the Minecraft (Java) ecosystem through my development on [Purpur][Purpur Link].
 
 <!-- START Links -->
-[Support]: https://encode42.dev/support "Support Discord"
-[Soundcloud]: https://soundcloud.com/encode42 "Soundcloud"
-[Metrics]: https://metrics.lecoq.io/about/Encode42 "Metrics"
-
-[React Link]: https://reactjs.org "React"
-[Remix Link]: https://remix.run "Remix"
-[Purpur Link]: https://purpurmc.org "PurpurMC"
-[OpenNBS Link]: https://opennbs.org "OpenNBS"
+[Support]: https://encode42.dev/support
+[Soundcloud]: https://soundcloud.com/encode42
+[Metrics]: https://metrics.lecoq.io/about/Encode42
 
 [Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord badge"
 [Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
 
-[PHP]: php.svg "PHP"
-[PHP Link]: https://www.php.net/
+[React Link]: https://reactjs.org
+[Purpur Link]: https://purpurmc.org
+[OpenNBS Link]: https://opennbs.org
+
 [HTML5]: html5.svg "HTML 5"
-[HTML5 Link]: https://www.w3.org/
+[HTML5 Link]: https://www.w3.org
 [Typescript]: typescript.svg "Typescript"
-[Typescript Link]: https://www.typescriptlang.org/
-[Next.js]: next.js.svg "Next.js"
-[Next.js Link]: https://nextjs.org/
+[Typescript Link]: https://www.typescriptlang.org
+[Remix]: remix.svg "Remix"
+[Remix Link]: https://remix.run
 [Mantine]: mantine.svg "Mantine"
-[Mantine Link]: https://mantine.dev/
-[Java]: java.svg "Java"
-[Java Link]: https://www.java.com/
+[Mantine Link]: https://mantine.dev
+
 [nginx]: nginx.svg "nginx"
-[nginx Link]: https://nginx.org/
-[Deno]: deno.svg "Deno"
-[Deno Link]: https://deno.land/
+[nginx Link]: https://nginx.org
 [Node.js]: node.js.svg "Node.js"
 [Node.js Link]: https://nodejs.org
-[Gradle]: gradle.svg "Gradle"
-[Gradle Link]: https://gradle.org/
-[MariaDB]: mariadb.svg "MariaDB"
-[MariaDB Link]: https://mariadb.org/
-[Docker]: docker.svg "Docker"
-[Docker Link]: https://www.docker.com/
-[Git]: git.svg "Git"
-[Git Link]: https://git-scm.com/
+[Deno]: deno.svg "Deno"
+[Deno Link]: https://deno.land
+[PHP]: php.svg "PHP"
+[PHP Link]: https://www.php.net
+
 [IntelliJ]: intellij.svg "IntelliJ"
-[IntelliJ Link]: https://www.jetbrains.com/idea/
+[IntelliJ Link]: https://www.jetbrains.com/idea
+[Java]: java.svg "Java"
+[Java Link]: https://www.java.com
+[Gradle]: gradle.svg "Gradle"
+[Gradle Link]: https://gradle.org
 [Cloudflare]: cloudflare.svg "Cloudflare"
-[Cloudflare Link]: https://www.cloudflare.com/
+[Cloudflare Link]: https://www.cloudflare.com
+
+[Ableton]: ableton.svg "Ableton Live"
+[Ableton Link]: https://www.ableton.com
 [FL]: fl.svg "FL Studio"
-[FL Link]: https://www.image-line.com/fl-studio/
+[FL Link]: https://www.image-line.com/fl-studio
+[Firefox]: firefox.svg "Firefox"
+[Firefox Link]: https://www.mozilla.org/firefox
+[Arch Linux]: archlinux.svg "Arch Linux"
+[Arch Linux Link]: https://archlinux.org/
 <!-- END Links -->
 
 <details>
@@ -71,10 +73,10 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 <summary><b>🔌 Technologies</b></summary>
 
 <!-- Badges -->
-[![PHP]][PHP Link] [![HTML5]][HTML5 Link] [![Typescript]][Typescript Link] [![Next.js]][Next.js Link]  
-[![Java]][Java Link] [![nginx]][nginx Link] [![Deno]][Deno Link] [![Mantine]][Mantine Link]  
-[![Gradle]][Gradle Link] [![Docker]][Docker Link] [![Node.js]][Node.js Link] [![MariaDB]][MariaDB Link]  
-[![IntelliJ]][IntelliJ Link] [![FL]][FL Link] [![Git]][Git Link] [![Cloudflare]][Cloudflare Link]
+[![HTML5]][HTML5 Link] [![Typescript]][Typescript Link] [![Remix]][Remix Link] [![Mantine]][Mantine Link]  
+[![nginx]][nginx Link] [![Node.js]][Node.js Link] [![Deno]][Deno Link] [![PHP]][PHP Link]  
+[![IntelliJ]][IntelliJ Link] [![Java]][Java Link] [![Gradle]][Gradle Link] [![Cloudflare]][Cloudflare Link]  
+[![Ableton]][Ableton Link] [![FL]][FL Link] [![Firefox]][Firefox Link] [![Arch Linux]][Arch Linux Link]
 </details>
 
 <details>

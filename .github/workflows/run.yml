@@ -17,9 +17,8 @@ jobs:
           user: Encode42
           template: classic
           base: activity, repositories
-          #config_order: base.repositories, habits, languages
           config_timezone: America/New_York
-          config_padding: 0, 16 + 11%
+          config_padding: 0, 16 + 15%
           plugin_habits: yes
           plugin_habits_charts: yes
           plugin_habits_days: 31
@@ -47,6 +46,3 @@ jobs:
           plugin_wakatime_user: Encode42
           repositories_affiliations: owner, collaborator
           repositories_forks: yes
-
-      #- name: Keepalive
-      #  uses: gautamkrishnar/keepalive-workflow@master
