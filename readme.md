@@ -6,15 +6,14 @@ Recently, I've been focusing on expanding my knowledge regarding web technologie
 I'm experienced with the Minecraft (Java) ecosystem through my development on [Purpur][Purpur Link].
 
 <!-- START Links -->
-
 [Support]: https://encode42.dev/support "Support Discord"
 [Soundcloud]: https://soundcloud.com/encode42 "Soundcloud"
-[NBS]: https://opennbs.org/ "OpenNBS"
 [Metrics]: https://metrics.lecoq.io/about/Encode42 "Metrics"
 
-[React Link]: https://reactjs.org/ "React"
-[Remix Link]: https://remix.run/ "Remix"
+[React Link]: https://reactjs.org "React"
+[Remix Link]: https://remix.run "Remix"
 [Purpur Link]: https://purpurmc.org "PurpurMC"
+[OpenNBS Link]: https://opennbs.org "OpenNBS"
 
 [Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord badge"
 [Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
@@ -58,7 +57,7 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 
 - `🎵 music production`
   - [Original compositions][Soundcloud]
-  - [NBS] remixes
+  - [NBS][OpenNBS] remixes
 - `🔊 music listening`
   - Collection of 30,000+ `.flac` files
   - Interested in [Progressive rock](https://en.wikipedia.org/wiki/Progressive_rock), [Chiptune](https://en.wikipedia.org/wiki/Chiptune), [D&B](https://en.wikipedia.org/wiki/Drum_and_bass), and much more.
