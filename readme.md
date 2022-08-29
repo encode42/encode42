@@ -1,18 +1,23 @@
-### I'm currently interested in full stack development.
-From web design, backend development, to software engineering, I enjoy it all!
+### 👋  I'm currently interested in full stack development!
+From `🌐 web design`, to `🪛 backend development`, and even `🎵 music production`, I enjoy it all!
 
-Recently, I've been focusing on expanding my knowledge regarding web technologies, such as React.
+Recently, I've been focusing on expanding my knowledge regarding web technologies, such as [React][React Link] and [Remix][Remix Link].
 
-[![Ko-fi Badge]][Ko-fi] [![Discord Badge]][Support]
+I'm experienced with the Minecraft (Java) ecosystem through my development on [Purpur][Purpur Link].
 
 <!-- START Links -->
-[Ko-fi]: https://ko-fi.com/encode42 "Donate via Ko-fi"
-[Ko-fi Badge]: https://img.shields.io/static/v1?label=​&message=Donate&logo=ko-fi&logoColor=white&labelColor=ff5e5b&color=ff5e5b&style=flat-square "Ko-fi badge"
+
 [Support]: https://encode42.dev/support "Support Discord"
-[YouTube]: https://encode42.dev/youtube "YouTube channel"
+[Soundcloud]: https://soundcloud.com/encode42 "Soundcloud"
+[NBS]: https://opennbs.org/ "OpenNBS"
+[Metrics]: https://metrics.lecoq.io/about/Encode42 "Metrics"
+
+[React Link]: https://reactjs.org/ "React"
+[Remix Link]: https://remix.run/ "Remix"
+[Purpur Link]: https://purpurmc.org "PurpurMC"
+
 [Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord badge"
-[YouTube Badge]: https://img.shields.io/badge/-YouTube-ff0000?logo=youtube&style=flat-square "YouTube badge"
-[Soundcloud]: https://soundcloud.com/encode42
+[Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
 
 [PHP]: php.svg "PHP"
 [PHP Link]: https://www.php.net/
@@ -46,26 +51,21 @@ Recently, I've been focusing on expanding my knowledge regarding web technologie
 [Cloudflare Link]: https://www.cloudflare.com/
 [FL]: fl.svg "FL Studio"
 [FL Link]: https://www.image-line.com/fl-studio/
-
-[Metrics]: https://metrics.lecoq.io/about/Encode42 "Metrics"
-[Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
-
-[NBS]: https://opennbs.org/
 <!-- END Links -->
 
 <details>
 <summary><b>👤 Hobbies</b></summary>
 
-- 🔊 Music production
+- `🎵 music production`
   - [Original compositions][Soundcloud]
   - [NBS] remixes
-- 🔊 Music listening
-  - Collection of 15,000+ `.flac` files
-  - Interested in [Progressive rock](https://en.wikipedia.org/wiki/Progressive_rock)
-- 🔒 Archival
-  - Software, games, obsolete tech, and more
-  - Involved with [MCServer Archive](https://github.com/MCServer-Archive)
-- 🖌️ Design
+- `🔊 music listening`
+  - Collection of 30,000+ `.flac` files
+  - Interested in [Progressive rock](https://en.wikipedia.org/wiki/Progressive_rock), [Chiptune](https://en.wikipedia.org/wiki/Chiptune), [D&B](https://en.wikipedia.org/wiki/Drum_and_bass), and much more.
+- `🔒 archival`
+  - Software, games, obsolete tech, etc.
+  - Homelab NAS with a capacity of `25 TB`.
+- `🖌️ design`
 </details>
 
 <details>
@@ -84,3 +84,5 @@ Recently, I've been focusing on expanding my knowledge regarding web technologie
 [![Metrics Badge]][Metrics]
 ![](https://hit.yhype.me/github/profile?user_id=34699884)
 </details>
+
+[![Discord Badge]][Support]
