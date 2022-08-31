@@ -12,7 +12,7 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 [Metrics]: https://metrics.lecoq.io/about/Encode42
 
 [Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord badge"
-[Sponsors Badge]: https://img.shields.io/github/sponsors/Encode42?color=222&labelColor=222&logo=github&style=flat-square
+[Sponsors Badge]: https://img.shields.io/github/sponsors/Encode42?color=222&labelColor=222&label=Donators&logo=github&style=flat-square
 [Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
 
 [React Link]: https://reactjs.org
