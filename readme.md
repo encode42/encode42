@@ -89,6 +89,6 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 ![](https://hit.yhype.me/github/profile?user_id=34699884)
 </details>
 
-<br/>
+---
 
 [![Discord Badge]][Support] [![Sponsors Badge]][Sponsors]
