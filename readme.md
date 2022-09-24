@@ -11,8 +11,8 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 [Soundcloud]: https://soundcloud.com/encode42
 [Metrics]: https://metrics.lecoq.io/about/Encode42
 
-[Discord Badge]: https://img.shields.io/discord/646517284453613578?color=7289da&labelColor=7289da&label=​&logo=discord&logoColor=white&style=flat-square "Discord badge"
-[Sponsors Badge]: https://img.shields.io/github/sponsors/Encode42?color=222&labelColor=222&label=Donators&logo=github&style=flat-square
+[Discord Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/social/discord-singular_64h.png
+[Sponsors Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/donate/ghsponsors-singular_64h.png
 [Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
 
 [React Link]: https://reactjs.org
@@ -88,5 +88,7 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 [![Metrics Badge]][Metrics]
 ![](https://hit.yhype.me/github/profile?user_id=34699884)
 </details>
+
+<br/>
 
 [![Discord Badge]][Support] [![Sponsors Badge]][Sponsors]
