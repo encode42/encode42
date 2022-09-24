@@ -11,7 +11,7 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 [Soundcloud]: https://soundcloud.com/encode42
 [Metrics]: https://metrics.lecoq.io/about/Encode42
 
-[Discord Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/minimal/social/discord-singular_64h.png
+[Discord Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/social/discord-singular_64h.png
 [Sponsors Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/donate/ghsponsors-singular_64h.png
 [Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
 
