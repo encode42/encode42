@@ -1,7 +1,7 @@
 ### 👋  I'm currently interested in full stack development!
 From `🌐 web design`, to `🪛 backend development`, and even `🎵 music production`, I enjoy it all!
 
-Recently, I've been focusing on expanding my knowledge regarding web technologies, such as [React][React Link] and [Remix][Remix Link].
+Recently, I've been focusing on expanding my knowledge regarding web technologies, such as [React][React Link], [Remix][Remix Link], and [Qwik][Qwik Link].
 
 I'm experienced with the Minecraft (Java) ecosystem through my development on [Purpur][Purpur Link].
 
@@ -16,6 +16,7 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 [Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
 
 [React Link]: https://reactjs.org
+[Qwik Link]: https://qwik.builder.io/
 [Purpur Link]: https://purpurmc.org
 [OpenNBS Link]: https://opennbs.org
 
