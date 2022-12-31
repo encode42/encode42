@@ -26,8 +26,8 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 [Typescript Link]: https://www.typescriptlang.org
 [Remix]: remix.svg "Remix"
 [Remix Link]: https://remix.run
-[Mantine]: mantine.svg "Mantine"
-[Mantine Link]: https://mantine.dev
+[Qwik]: qwik.svg "Qwik"
+[Qwik Link]: https://qwik.builder.io
 
 [nginx]: nginx.svg "nginx"
 [nginx Link]: https://nginx.org
@@ -76,7 +76,7 @@ I'm experienced with the Minecraft (Java) ecosystem through my development on [P
 <summary><b>🔌 Technologies</b></summary>
 
 <!-- Badges -->
-[![HTML5]][HTML5 Link] [![Typescript]][Typescript Link] [![Remix]][Remix Link] [![Mantine]][Mantine Link]  
+[![HTML5]][HTML5 Link] [![Typescript]][Typescript Link] [![Remix]][Remix Link] [![Qwik]][Qwik Link]  
 [![nginx]][nginx Link] [![Node.js]][Node.js Link] [![Deno]][Deno Link] [![PHP]][PHP Link]  
 [![IntelliJ]][IntelliJ Link] [![Java]][Java Link] [![Gradle]][Gradle Link] [![Cloudflare]][Cloudflare Link]  
 [![Ableton]][Ableton Link] [![FL]][FL Link] [![Firefox]][Firefox Link] [![Arch Linux]][Arch Linux Link]  
