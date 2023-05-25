@@ -49,12 +49,10 @@ jobs:
                   plugin_lines_repositories_limit: 4
                   plugin_lines_sections: base
                   plugin_pagespeed: yes
-                  plugin_pagespeed_url: .user.website
-                  plugin_sponsorships: yes
-                  plugin_sponsorships_sections: amount
-                  plugin_sponsorships_size: 24
+                  plugin_pagespeed_url: "https://encode42.dev"
                   plugin_traffic: yes
                   plugin_wakatime: yes
+                  plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
                   plugin_wakatime_days: 7
                   plugin_wakatime_limit: 5
                   plugin_wakatime_repositories_visibility: all
