@@ -1,9 +1,7 @@
-<svg width="934" height="640" viewBox="0 0 934 640" xmlns="http://www.w3.org/2000/svg">
-    <path fill="#d260a5" fill-rule="evenodd" class="s0" d="m934 551c0 47.5-37.2 86.3-84 88.9v0.1h-765v-0.1c-47.3-2.1-85-41.1-85-88.9v-2h934z"/>
-    <path fill="#e4afcd" d="m0 457h934v92h-934z"/>
-    <path fill="#fefefe" d="m0 365h934v92h-934z"/>
-    <path fill="#57cef8" d="m0 274h934v92h-934z"/>
-    <path fill="#fefefe" d="m0 183h934v92h-934z"/>
-    <path fill="#e4afcd" d="m0 91h934v92h-934z"/>
-    <path fill="#d260a5" fill-rule="evenodd" d="m89 183q-6.8 0-13.4-1h26.8q-6.6 1-13.4 1zm-89-94c0-47.5 37.2-86.3 84-88.9v-0.1h765v0.1c47.3 2.1 85 41.1 85 88.9v2h-934zm845 94q-6.8 0-13.4-1h26.8q-6.6 1-13.4 1z"/>
+<svg width="512" height="512" viewBox="0 0 512 512" xmlns="http://www.w3.org/2000/svg">
+	<path fill="#57cef8" d="m0 229h512v53h-512z"/>
+	<path fill="#fefefe" d="m0 177h512v53h-512zm0 105h512v53h-512z"/>
+	<path fill="#e4afcd" d="m0 124h512v53h-512zm0 211h512v53h-512z"/>
+	<path fill="#d260a5" fill-rule="evenodd" d="m53 71h406c29.3 0 53 23.7 53 53h-512c0-29.3 23.7-53 53-53zm406 370h-406c-29.3 0-53-23.7-53-53h512c0 29.3-23.7 53-53 53z"/>
 </svg>
+
