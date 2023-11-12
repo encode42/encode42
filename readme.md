@@ -1,30 +1,23 @@
-### 👋  I'm currently interested in full stack development!
-From `🌐 web design`, to `🪛 backend development`, and even `🎵 music production`, I enjoy it all!
-
-Recently, I've been focusing on expanding my knowledge regarding web technologies, such as [Qwik][Qwik Link], [React][React Link], and [Remix][Remix Link].
-
-I'm experienced with the Minecraft (Java) ecosystem through my development on [Purpur][Purpur Link], compilation of the [Packed][Packed Link] and [Natureal][Natureal Link] mod packs, and following of [Modrinth][Modrinth Link].
-
-I've been producing and releasing my own songs on [Bandcamp][Bandcamp Link]. They've all been written, composed, and mixed entirely by me, in my bedroom!
-
-<!-- START Links -->
-[Support]: https://encode42.dev/support
-[Sponsors]: https://github.com/sponsors/Encode42
-[Metrics]: https://metrics.lecoq.io/about/Encode42
+[Support]: https://encode42.dev/discord
+[Sponsors]: https://github.com/sponsors/encode42
+[Metrics]: https://metrics.lecoq.io/about/encode42
 
 [Discord Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/social/discord-singular_vector.svg
 [Sponsors Badge]: https://raw.githubusercontent.com/intergrav/devins-badges/v2/assets/cozy/donate/ghsponsors-singular_vector.svg
-[Metrics Badge]: https://gist.githubusercontent.com/Encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
+[Metrics Badge]: https://gist.githubusercontent.com/encode42/6cab963ce204e91a371b9254f013cb5a/raw/standard-metrics.svg "Metrics badge"
 
 [React Link]: https://reactjs.org
-[Qwik Link]: https://qwik.builder.io/
 [Purpur Link]: https://purpurmc.org
-[OpenNBS Link]: https://opennbs.org
 [Modrinth Link]: https://modrinth.com
+[OpenNBS Link]: https://opennbs.org
+[SimplyMC Link]: https://www.simplymc.art
+[last.fm Link]: https://www.last.fm/user/encode42
+[Steam Link]: https://steamcommunity.com/id/encode42/
 
+[erora Link]: https://erora.live
 [Packed Link]: https://modrinth.com/modpack/packed
 [Natureal Link]: https://modrinth.com/modpack/natureal
-[Bandcamp Link]: https://encode42.bandcamp.com
+[Bandcamp Link]: https://erora.bandcamp.com
 
 [HTML5]: html5.svg "HTML 5"
 [HTML5 Link]: https://www.w3.org
@@ -80,30 +73,43 @@ I've been producing and releasing my own songs on [Bandcamp][Bandcamp Link]. The
 [Ubiquiti Link]: https://ui.com
 [Firefox]: firefox.svg "Firefox"
 [Firefox Link]: https://www.mozilla.org/firefox
-<!-- END Links -->
+
+### 👋  I'm currently interested in full stack development!
+From `🌐 web design`, to `🪛 backend development`, and even `🎵 music production`, I enjoy it all!
+
+Recently, I've been producing and releasing my own songs under the alias "[erora][erora Link]". My passion is in music, and I would love to write a video game soundtrack!
+
+A career in web development is what I'm looking for though, with experience in modern web technologies such as [Qwik][Qwik Link], [React][React Link], and [Remix][Remix Link].
+
+I'm experienced with the Minecraft (Java) ecosystem through my development on [Purpur][Purpur Link], compilation of the [Packed][Packed Link] and [Natureal][Natureal Link] mod packs, and former content moderation of [Modrinth][Modrinth Link]. I also work with [OpenNBS][OpenNBS Link] and [SimplyMC][SimplyMC Link] as a moderator and/or contributor!
 
 <details>
 <summary><b>👤 Hobbies</b></summary>
 
 - `🎵 music production`
-  - [Original compositions][Bandcamp Link]
-  - [NBS][OpenNBS Link] remixes
+  - [Original composition][Bandcamp Link]
+  - Advocate for pro audio on Linux!
+  - Goal to produce music like Lena Raine, Chris Christodoulou, and C418.
+  - [Note Block][OpenNBS Link] remixes
 - `🔊 music listening`
-  - Collection of 192,000+ `.flac` files.
-  - Interested in [Progressive rock](https://en.wikipedia.org/wiki/Progressive_rock), [Chiptune](https://en.wikipedia.org/wiki/Chiptune), [D&B](https://en.wikipedia.org/wiki/Drum_and_bass), and much more.
+  - Multi-terabyte offline lossless music library.
+  - [Tracked][last.fm Link] listening of a wide variety of genres.
+  - Interested in [Progressive rock](https://en.wikipedia.org/wiki/Progressive_rock), [Chiptune](https://en.wikipedia.org/wiki/Chiptune), [D&B](https://en.wikipedia.org/wiki/Drum_and_bass), and much, **much** more.
 - `🖌️ design`
   - Experienced with minimalism, interested in glass.
   - Consistency and intuition is key!
-  - Strive to provide useful tools for everyone.
+  - Aspiration to provide useful tools for everyone.
 - `💾 homelab`
-  - Current capacity of `25 TB`.
-  - Unifi network and protect system.
+  - Current capacity of `47 TB` with backups and parity.
+  - Unifi network and security system.
+  - Serving offline media storage through various systems.
   - Maintaining my own network of computers and their software.
 - `🔒 archival`
   - Software, games, obsolete tech, etc.
+  - Music unavailable on streaming services.
 - `🎮 gaming`
-  - Open world, storytelling, first person, etc.
-  - Enjoyer of Valve games, Toby Fox, OneShot, Superliminal, and many more!
+  - Open world, storytelling, first person, rouge-like etc.
+  - Enjoyer of Risk of Rain, OneShot, Superliminal, and [many more][Steam Link]!
 </details>
 
 <details>
